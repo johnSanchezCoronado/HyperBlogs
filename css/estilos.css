@@ -44,3 +44,11 @@ body {
 #container h1 {
     font-size: 25px;
 }
+
+#footer {
+    background-color: burlywood;
+    padding: 0.5em;
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.09em;
+}
